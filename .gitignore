@@ -1,0 +1,11 @@
+.env
+__pycache__/
+*.pyc
+.DS_Store
+*.bin
+*.pkl
+data/ml-25m/
+notebooks/.ipynb_checkpoints/
+venv/
+.venv/
+instance/
